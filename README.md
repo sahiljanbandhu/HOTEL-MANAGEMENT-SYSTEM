@@ -14,7 +14,6 @@ It is a Back-End Project which is Completely Based on Hibernate (Includes all Ma
    3.  **Hotel** role is to approve all the rooms wheather it is available or not for customers.
    4.  **Customers**  role is to book rooms. <br>
 
-
 ### Tools and Technologies used:-
 
 1. Eclipse IDE
@@ -27,7 +26,8 @@ It is a Back-End Project which is Completely Based on Hibernate (Includes all Ma
 ![Capture1](https://user-images.githubusercontent.com/22257930/220373908-38792145-a65a-4563-b9ea-d7f4f5d7a4dd.PNG)
 1. Total 4 package is present <br> a. **Controller** contains all the class which is used to perform crud operation. <br>   b. **Dao** contains all the class which is used for Data Access Object. <br>   c. **Dto** contains all the class which is used for Data Transfer Object. <br>   d. **Services** contains all the class for business logic.
 
-### All Tables from Database(MySQL)- 
+
+### All Tables from Database(MySQL);- 
 ![Capture1](https://user-images.githubusercontent.com/22257930/220378702-219c15b9-c160-4a8e-8816-5c08359612d5.PNG) <br>
 1. **Admin Table** <br>
 ![image](https://user-images.githubusercontent.com/22257930/220380220-1408b4a7-9cdb-4bdb-9d8c-8d183193022e.png) <br>
