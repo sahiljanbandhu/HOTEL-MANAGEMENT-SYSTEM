@@ -15,7 +15,7 @@ It is a Back-End Project which is Completely Based on Hibernate (Includes all Ma
    4.  **Customers**  role is to book rooms. <br>
 
 
-### Tools and Technologies used-
+### Tools and Technologies used:-
 
 1. Eclipse IDE
 2. Maven 4.0
@@ -23,7 +23,7 @@ It is a Back-End Project which is Completely Based on Hibernate (Includes all Ma
 4. Hibernate
 5. Java
 
-### Packages & Class-
+### Packages & Class:-
 ![Capture1](https://user-images.githubusercontent.com/22257930/220373908-38792145-a65a-4563-b9ea-d7f4f5d7a4dd.PNG)
 1. Total 4 package is present <br> a. **Controller** contains all the class which is used to perform crud operation. <br>   b. **Dao** contains all the class which is used for Data Access Object. <br>   c. **Dto** contains all the class which is used for Data Transfer Object. <br>   d. **Services** contains all the class for business logic.
 
